@@ -3,15 +3,19 @@ Events based app for RI-NET
 
 # app -> java -> com -> example -> eventusajava
 
- data:\n
+ data:
+ 
   -Event data model
  
- network:\n
+ network:
+ 
   -NetworkManager contains a single AsyncTask for sending requests, the rest of the functions configure requests and fit data
   -RequestType http request helper
   
- screens:\n
+ screens:
+ 
   -Screens classes (activities)
  
- utis:\n
+ utis:
+ 
   -JsonUtils to be implemented
