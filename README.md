@@ -16,7 +16,7 @@ You can download and test the app (app-debug.apk) without building the project
  network:
  
     -NetworkManager contains a single AsyncTask for sending requests, the rest of the functions configure requests and fit data
-    -RequestType http request helper
+    -RequestType http request enum 
     
     
     
