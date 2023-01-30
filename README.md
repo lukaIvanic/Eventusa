@@ -1,6 +1,8 @@
 # Eventusa
 Events based app for RI-NET
 
+You can download and test the app (app-debug.apk) without building the project
+
 # app -> java -> com -> example -> eventusajava
 
  data:
