@@ -5,17 +5,29 @@ Events based app for RI-NET
 
  data:
  
-  -Event data model
+    -Event data model
+    
+    
+    
+    
  
  network:
  
-  -NetworkManager contains a single AsyncTask for sending requests, the rest of the functions configure requests and fit data
-  -RequestType http request helper
+    -NetworkManager contains a single AsyncTask for sending requests, the rest of the functions configure requests and fit data
+    -RequestType http request helper
+    
+    
+    
+    
   
  screens:
  
-  -Screens classes (activities)
+    -Screens classes (activities)
+    
+    
+    
+    
  
  utis:
  
-  -JsonUtils to be implemented
+    -JsonUtils to be implemented
