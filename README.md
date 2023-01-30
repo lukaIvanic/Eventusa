@@ -28,6 +28,6 @@ Events based app for RI-NET
     
     
  
- utis:
+ utils:
  
     -JsonUtils to be implemented
